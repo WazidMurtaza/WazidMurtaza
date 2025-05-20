@@ -1,4 +1,4 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm Wazid Murtaza 👋
 
 I'm a passionate developer specializing in **JavaScript** and **React**. Here are a few things about me:
 
