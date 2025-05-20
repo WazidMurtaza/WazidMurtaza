@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm John Doe 👋
 
-<!--
-**WazidMurtaza/WazidMurtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer specializing in **JavaScript** and **React**. Here are a few things about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a personal project: [Project XYZ](link-to-project).
+- 🌱 I’m learning **GraphQL** and **TypeScript**.
+- 👯 I’m looking to collaborate on open-source projects related to **web development**.
+- 💬 Ask me about **front-end development**, **JavaScript**, or anything else!
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📝 Check out my blog: [My Blog](link-to-blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: JavaScript, Python, Java
+- Frameworks: React, Express
+- Tools: Git, Docker, Webpack
+
+## Projects
+- [Project One](link-to-repo) - Description of project
+- [Project Two](link-to-repo) - Description of project
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&count_private=true&hide=prs)
