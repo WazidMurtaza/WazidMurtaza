@@ -6,7 +6,7 @@ I'm a passionate developer specializing in **JavaScript** and **React**. Here ar
 - 🌱 I’m learning **GraphQL** and **TypeScript**.
 - 👯 I’m looking to collaborate on open-source projects related to **web development**.
 - 💬 Ask me about **front-end development**, **JavaScript**, or anything else!
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [murtazawazid@gmail.com](mailto:email@example.com)
 - 📝 Check out my blog: [My Blog](link-to-blog)
 
 ## Skills
