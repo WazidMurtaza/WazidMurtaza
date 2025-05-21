@@ -10,7 +10,7 @@ I'm a passionate developer specializing in **JavaScript** and **React**. Here ar
 - 📝 Check out my blog: [My Blog](link-to-blog)
 
 ## Skills
-- Languages: SQL, Python, Java
+- Languages: SQL, Python, Java,HTML,CSS
 - Frameworks: React, Express
 - Tools: Git, Docker, Webpack
 
