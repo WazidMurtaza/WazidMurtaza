@@ -10,9 +10,9 @@ I'm a passionate developer specializing in **JavaScript** and **React**. Here ar
 - 📝 Check out my blog: [My Blog](link-to-blog)
 
 ## Skills
-- Languages: SQL, Python, Java,HTML,CSS, JavaScript 
-- Frameworks: React, Express
-- Tools: Git, Docker, Webpack
+- Languages: PYTHON, M.L ,SQL, JAVA,(DSA)HTML,CSS, JavaScript 
+- Frameworks: POWER BI, Tableau
+- Tools: Git, Docker, Google Colab , Jupyter Notbook
 
 ## Projects
 - [Project One](link-to-repo) - Description of project
