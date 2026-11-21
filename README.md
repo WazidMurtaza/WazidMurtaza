@@ -22,7 +22,7 @@
 ```python
 class WazidMurtaza:
     role      = "Aspiring Data Analyst"
-    education = "B.Tech CSE (AI & ML) @ Galgotias University, SCSE"
+    education = "B.Tech SCSE (AI & ML) @ Galgotias University"
     location  = "Noida, India"
     skills    = ["Python", "Pandas", "NumPy", "Data Visualization"]
     learning  = ["SQL", "Power BI", "Machine Learning"]
