@@ -21,12 +21,12 @@
 
 ```python
 class WazidMurtaza:
-    role     = "Aspiring Data Analyst"
-    education = "[Your degree] @ [Your college]"
-    location = "[Your city], India"
-    skills   = ["Python", "Pandas", "NumPy", "Data Visualization"]
-    learning = ["SQL", "Power BI", "Machine Learning"]
-    goal     = "Turn data into decisions"
+    role      = "Aspiring Data Analyst"
+    education = "B.Tech CSE (AI & ML) @ Galgotias University, SCSE"
+    location  = "Noida, India"
+    skills    = ["Python", "Pandas", "NumPy", "Data Visualization"]
+    learning  = ["SQL", "Power BI", "Machine Learning"]
+    goal      = "Turn data into decisions"
 
     def say_hi(self):
         print("Let's build something with data!")
